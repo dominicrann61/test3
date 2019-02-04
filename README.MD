@@ -1,3 +1,3 @@
-#hELLO
+HELLO
 
 This is a test.
